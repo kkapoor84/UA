@@ -1,0 +1,70 @@
+Starting ChromeDriver (v2.8.241075) on port 10271
+Aug 17, 2016 2:11:25 PM org.openqa.selenium.remote.Augmenter extractRemoteWebDriver
+WARNING: Augmenter should be applied to the instances of @Augmentable classes or previously augmented instances only
+Welcome To JA Application
+
+Login as shivani thaman is successfull
+
+
+ User Eric Triplett Created Successfully
+
+
+ *****Test for search , create and update functionality ****
+
+ Data for user Shivani Thaman Searched successfully.
+
+ Data for user Shivani Thaman updated successfully.
+
+
+ *****Test for Request sessions functionality ****
+
+ Courses Requested selected successfully.
+
+ Session requested successfully
+
+ Admin approved sessions.
+
+
+****Test for Manage Catalog******
+
+ New catalog added successfully.
+
+ Catalog updated successfully.
+
+ Catalog deleted successfully.
+
+
+****Test for Teacher/ Volunteer/ Student******
+
+ Location Enrolled successfully.
+There is no teachers enrollment to delete
+
+ Teacher Enrollment Complete
+There is no teachers enrollment to delete
+
+ Teacher Bulk enrollment is successfull.
+
+ There is no volunteer enrollment to delete
+
+ Volunteer Enrollment Successfull.
+
+ There is no volunteer enrollment to delete
+
+ Volunteer Bulk student is successfull.
+There is no Students enrollment to delete
+There is no Students enrollment to delete
+
+ Student Enrollment is successfull
+There is no Students enrollment to delete
+There is no Students enrollment to delete
+
+ Student Bulk enrollment is successfull.
+
+
+ Logout from JA application is successful
+
+
+ ********Congratulations Automation Suite is Complete*******
+
+
+ ===========================================================================
